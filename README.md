@@ -1,6 +1,6 @@
 ## About Me 🌱
 
-Passionate about designing and coding unique experiences. Here you'll find a collection of projects I've worked on, as I continuously explore new ideas and go down new rabbit holes.
+I'm Ollie, a designer and developer passionate about creating unique experiences. Here you'll find an eclectic collection of projects I've worked on...
 
 ## Education 🏫
 Ba. Design Computing @ USYD. <br>
