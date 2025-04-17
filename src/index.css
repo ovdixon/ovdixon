@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@font-face {
+    font-family: 'Helvetica Now Micro';
+    src: url('assets/HelveticaNowMicro-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Titling Gothic FB Wide';
+    src: url('assets/Titling-Gothic-FB-Wide-Bold.otf') format('opentype');
+}
+
+@layer base {
+
+    .font-mono {
+        text-transform: uppercase;
+    }
+
+    .font-bold {
+        text-transform: uppercase;
+    }
+}
+
+@theme {
+    --font-mono: 'Helvetica Now Micro', sans-serif;
+    --font-bold: 'Titling Gothic FB Wide', sans-serif;
+}
+
+.grabbable {
+    cursor: grab;
+}
