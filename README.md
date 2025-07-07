@@ -1,14 +1,19 @@
-## My Digital Garden 🌱
-
-I'm Ollie, a designer and developer passionate about creating unique experiences. Here you'll find an eclectic collection of projects I've worked on...
-
-## Education 🏫
-Ba. Design Computing @ USYD. <br>
+### Education 🏫
+Ba. Design Computing @ University of Sydney - 2018 - 2022. <br>
 *Twice awarded the Dean's List of Academic Excellence.*
 
-## Work Experience 🏢
-Software Engineer @ Jord Int. <br>
-*Developing our in-house design team and project management tools.*
+### Work Experience 🏢
+React Developer @ Jord International - 2023 - Present <br>
+- Built the company-wide React design-system and an Outlook add-in for project-email filing  
+- Modernised legacy Domino Notes apps into web portals (procurement, invoicing, securities)
 
-Intern @ Marsh McLennan Digital <br>
-*Contributed to the redesign of a global risk management platform.*
+Intern @ Marsh McLennan Digital - 2023 <br>
+- Re-architected a claims dashboard for a global automaker
+
+### Skills 🧰
+- React (Native & Web)
+- Design Systems (Storybook & Style Dictionary)
+- Figma 
+
+### Projects 👇
+Explore some of my work in the pinned projects below 
