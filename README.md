@@ -1,10 +1,10 @@
 ### Education 🏫
 Ba. Design Computing @ University of Sydney - 2018 - 2022. <br>
-*Twice awarded the Dean's List of Academic Excellence.*
+- Twice awarded the Dean's List of Academic Excellence
 
 ### Work Experience 🏢
 React Developer @ Jord International - 2023 - Present <br>
-- Built the company-wide React design-system and an Outlook add-in for project-email filing  
+- Built the company-wide React design-system and an Outlook add-in for project-email filing 
 - Modernised legacy Domino Notes apps into web portals (procurement, invoicing, securities)
 
 Intern @ Marsh McLennan Digital - 2023 <br>
