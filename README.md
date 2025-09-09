@@ -5,7 +5,7 @@ Ba. Design Computing @ University of Sydney - 2018 - 2022. <br>
 ### Work Experience 🏢
 React Developer @ Jord International - 2023 - Present <br>
 - Modernised legacy Domino Notes apps into web apps (procurement, invoicing, securities)
-- Built the company-wide React design-system and an Outlook add-in for project-email filing 
+- Built the company-wide React design-system and a Team/Outlook add-in for project-correspondence filing 
 
 Intern @ Marsh McLennan Digital - 2023 <br>
 - Re-architected a claims dashboard for a global automaker
