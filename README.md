@@ -16,4 +16,6 @@ Intern @ Marsh McLennan Digital - 2023 <br>
 - Figma 
 
 ### Projects 👇
-Explore some of my work in the pinned projects below 
+Explore some of my work on my portfolio website
+
+https://ovdixon.com
